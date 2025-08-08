@@ -1,5 +1,3 @@
-# Electric-Vehicle-Analysis-Tableau
-
 # 🚗 Electric Vehicle Market Analysis – Washington State (Tableau)
 
 ## 📌 Project Title
